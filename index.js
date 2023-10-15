@@ -1,2 +1,2 @@
 console.log("Hi there!")
-console.log("is this giving me a conflict?")
+console.log("Trying MERGE CONFLICT")
